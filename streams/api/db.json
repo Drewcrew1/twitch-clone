@@ -11,12 +11,6 @@
       "id": 2
     },
     {
-      "title": "A stream with a Id",
-      "description": "this new stream",
-      "userId": "110678919198585546756",
-      "id": 3
-    },
-    {
       "title": "Programmatic Navigation",
       "description": "proper nav for react use patch request",
       "userId": "110678919198585546756",
@@ -26,6 +20,12 @@
       "title": "Create With stream form",
       "description": "watch now for more",
       "id": 5
+    },
+    {
+      "title": "Delete action handler",
+      "description": "delete function",
+      "userId": "110678919198585546756",
+      "id": 6
     }
   ]
 }
